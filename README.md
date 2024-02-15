@@ -11,9 +11,9 @@ Check out the video demo [here](https://www.loom.com/share/672a8810aa1d42148afb7
 To run the project:
 
 1. Turn on XAMPP to connect MySQL.
-2. In Visual Studio Code: open the project 
-3. In a terminal, to run APIs: npm i -> cd [api file path] -> nodemon api.js
-4. Open new terminal, to run the website: npm start
+2. Open the project in Visual Studio Code
+3. In the terminal, run APIs with the command lines: npm i -> cd [api file path] -> nodemon api.js
+4. Open a new terminal, run the website with the command line: npm start
 
 
 
