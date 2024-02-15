@@ -1,0 +1,20 @@
+npm i express axios body-parser
+
+npm i mysql2
+
+from database, create APIs in api.js and test in Postman
+
+create react app:
+
+npx create-react-app my-react-app
+cd my-react-app
+
+nmp i axios
+
+npm i cors
+
+npm i mdb-ui-kit
+
+to run program in react: npm start
+to run api: nodemon api.js
+
