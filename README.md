@@ -13,7 +13,7 @@ To run the project:
 1. Turn on XAMPP to connect MySQL.
 2. Open the project in Visual Studio Code
 3. In the terminal, run APIs with the command lines: npm i -> cd [api file path] -> nodemon api.js
-4. Open a new terminal, run the website with the command line: npm start
+4. Open a new terminal, run the React app with the command line: npm start
 
 
 
