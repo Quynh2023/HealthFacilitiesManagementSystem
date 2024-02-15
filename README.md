@@ -1,6 +1,7 @@
+## Health Facilities Management System
 Health Facilities Management System is a comprehensive web application for assisting health facilities to keep track of their employees’ health status during the COVID-19 pandemic.
 
-Technologies:
+## Technologies
 React | Bootstrap | HTML | CSS | Javascript | Node.js | Express.js | Axios | Custom restful APIs | MySQL | Normalization | Triggers | Schema constraints | Complex queries
 
 ## Demo
