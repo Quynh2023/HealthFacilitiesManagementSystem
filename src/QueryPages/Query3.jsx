@@ -24,7 +24,7 @@ const Query3 = () => {
     <div style={{ marginLeft: '20px' }}>
       <Nav />
       <div style={{ marginTop: '100px' }}>
-        <h4 style={{ marginBottom: '30px' }}>List of nurses with most working hours</h4>
+        <h4 style={{ marginBottom: '30px' }}>List of nurses with the most working hours</h4>
         <div className="table-container">
         <table className="table table-striped" style={{ width: '100%', fontSize: '16px' }}>
           <thead>
