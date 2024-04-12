@@ -5,7 +5,7 @@ Health Facilities Management System is a comprehensive web application for assis
 React | Bootstrap | HTML | CSS | Javascript | Node.js | Express.js | Axios | Custom Restful APIs | MySQL | Normalization | Triggers | Schema Constraints | Complex Queries
 
 ## Demo
-Check out the video demo [here](https://www.loom.com/share/9bb7025fbf1b4f4b84e772c1de4749c3).
+Check out the video demo [here](https://www.loom.com/share/9bb7025fbf1b4f4b84e772c1de4749c3)
 
 ## How to run
 To run the project:
